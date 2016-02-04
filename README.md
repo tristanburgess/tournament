@@ -25,7 +25,7 @@ Here's how to get started:
 * [Download the latest release](https://github.com/tristanburgess/tournament/archive/master.zip) OR
 * Clone the repo: `git clone https://github.com/tristanburgess/tournament.git`
 * Navigate to the directory where you have downloaded the repo, and unzip if necessary
-* Create the tournmanet database: psql [-U username] [-p password] -f tournament.sql
+* Create the tournmanet database: `psql [-U username] [-p password] -f tournament.sql`
 * Run the test suite: `python tournament_test.py`
 
 ## What's included
